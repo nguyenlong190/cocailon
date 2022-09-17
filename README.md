@@ -117,5 +117,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @Nlong2905 Zalo: zalo.me/nlong2905
+Telegram: @Nlong2905 
+Zalo: zalo.me/nlong2905
 ```
